@@ -1,7 +1,7 @@
 def calculate_basic(a, b):
     addition = a + b
     multiplication = a * b
-    return addition, subtraction
+    return addition, multiplication
 
 # Example usage:
 add_result, sub_result = calculate_basic(10, 5)
